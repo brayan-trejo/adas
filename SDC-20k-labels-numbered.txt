@@ -1,0 +1,11 @@
+0  car
+1  pedestrian
+2  trafficLight-Red
+3  trafficLight-Green
+4  truck
+5  trafficLight
+6  biker
+7  trafficLight-RedLeft
+8  trafficLight-GreenLeft
+9  trafficLight-Yellow
+10  trafficLight-YellowLeft
